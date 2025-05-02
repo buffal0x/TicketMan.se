@@ -2,7 +2,7 @@
     id="hero"
     class="h-[40vh] mt-4 rounded-lg shadow-lg mb-4 bg-center bg-cover relative"
     style="
-    background-image: url('img/ticketman_wallpaper.png');
+    background-image: url('../img/ticketman_wallpaper.png');
     background-size: 100%;
   ">
     <!-- Overlay -->
