@@ -23,10 +23,9 @@ A lightweight and user-friendly event management platform for smaller organizers
 ```bash
 1. Register a free account on the platform.
 2. Log in to your dashboard and create your first event.
-3. Add guests to your list and start checking them in.
-
-
-# 🖥️ Our Official Website
+3. Add guests to your list and start checking them in and out
 
 ```
+
+# 🖥️ Our Official Website
 > https://ticketman.se/
