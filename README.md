@@ -1,4 +1,4 @@
-# 🎫 TicketMan.se | Small Time Event Manager
+# 🎫 TicketMan.se | A Manager for Tickets
 
 A lightweight and user-friendly event management platform for smaller organizers. Easily manage events, guest lists, and check-ins — perfect for clubs, associations, or private event hosts.
 
@@ -25,3 +25,8 @@ A lightweight and user-friendly event management platform for smaller organizers
 2. Log in to your dashboard and create your first event.
 3. Add guests to your list and start checking them in.
 
+
+# 🖥️ Our Official Website
+
+```
+> https://ticketman.se/
